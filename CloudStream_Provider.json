@@ -1,0 +1,10 @@
+{
+    "name": "Streamed.su Live Sports Provider",
+    "type": "tv",
+    "url": "http://10.6.1.136:5000/live-sports",
+    "logo": "file:///storage/emulated/0/Download/Sports.jpg",
+    "languages": ["en"],
+    "subtitleLanguages": ["en"],
+    "directLink": true
+  }
+  
